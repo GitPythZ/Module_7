@@ -1,0 +1,4 @@
+This is ordinary text file
+Second row of text
+Third row of text
+Firth row of text

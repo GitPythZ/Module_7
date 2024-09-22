@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="NEw repository - M7">
-      <change afterPath="$PROJECT_DIR$/sample1.txt" afterDir="false" />
+    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="представление данных в виде битов и байтов">
+      <change afterPath="$PROJECT_DIR$/module_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Theory_M7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Theory_M7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Theory_M7.executor": "Run",
+    "Python.module_7_1.executor": "Run",
+    "Python.openfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -76,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727024120689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="представление данных в виде битов и байтов">
+      <option name="closed" value="true" />
+      <created>1727024745203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024745203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NEw repository - M7" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEw repository - M7" />
+    <MESSAGE value="представление данных в виде битов и байтов" />
+    <option name="LAST_COMMIT_MESSAGE" value="представление данных в виде битов и байтов" />
   </component>
 </project>
