@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="представление данных в виде битов и байтов">
-      <change afterPath="$PROJECT_DIR$/module_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/openfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   "keyToString": {
     "Python.Theory_M7.executor": "Run",
     "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
     "Python.openfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -88,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727024745203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="представление данных в виде битов и байтов">
+      <option name="closed" value="true" />
+      <created>1727029184053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727029184053</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
