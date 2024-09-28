@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="7_2">
-      <change afterPath="$PROJECT_DIR$/Mother_Goose_Monday`s_Child.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rudyard_Kipling_If.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walt_Whitman_O_Captain_My_Captain!.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_file.txt" afterDir="false" />
+    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="7_3">
+      <change afterPath="$PROJECT_DIR$/format_str_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Theory_M7.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Debug",
     "Python.module_7_3.executor": "Run",
@@ -124,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727533337692</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7_3">
+      <option name="closed" value="true" />
+      <created>1727537320157</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727537320157</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,7 +137,8 @@
     <MESSAGE value="представление данных в виде битов и байтов" />
     <MESSAGE value="дз" />
     <MESSAGE value="7_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_2" />
+    <MESSAGE value="7_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="7_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
