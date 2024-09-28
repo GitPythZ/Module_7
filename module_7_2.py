@@ -18,7 +18,7 @@ def read_str():
         file_read_str.close()
 
 
-def custom_write(file_name, *args, strings=None):
+def personal_request(file_name, *args, strings=None):
     """Функция принимает аргументы file_name - название файла для записи, strings - список строк для записи.
        Функция должна:
        - записывать в файл file_name все строки из списка strings, каждая на новой строке;
@@ -47,5 +47,5 @@ def custom_write(file_name, *args, strings=None):
     print(strings_index)
 
 
-custom_write('module_7_2.txt', 'board', '12 packs', 'Привет со строки три!', 'а это уже четвёртая строка')
+personal_request('module_7_2.txt', 'board', '12 packs', 'Привет со строки три!', 'а это уже четвёртая строка')
 
