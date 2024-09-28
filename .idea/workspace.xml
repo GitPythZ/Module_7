@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="представление данных в виде битов и байтов">
-      <change afterPath="$PROJECT_DIR$/module_7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_2.txt" afterDir="false" />
+    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="дз">
+      <change afterPath="$PROJECT_DIR$/for_mod_7_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/еуые.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/openfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,37 +25,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GitPythZ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GitPythZ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GitPythZ/Module_7.git",
-    "accountId": "7208ad1a-cc1d-4bb2-a948-c376d09f1b9d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GitPythZ/Module_7.git&quot;,
+    &quot;accountId&quot;: &quot;7208ad1a-cc1d-4bb2-a948-c376d09f1b9d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mR0HPpCVsQ5yyfKS7UbcosZJJS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Theory_M7.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.openfile.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Theory_M7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.openfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.еуые.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,12 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727029184053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="дз">
+      <option name="closed" value="true" />
+      <created>1727032386465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727032386465</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NEw repository - M7" />
     <MESSAGE value="представление данных в виде битов и байтов" />
-    <option name="LAST_COMMIT_MESSAGE" value="представление данных в виде битов и байтов" />
+    <MESSAGE value="дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз" />
   </component>
 </project>

@@ -1,4 +1,7 @@
 Text for tell.
 Используйте кодировку utf-8.
 Because there are 2 languages!
-Спасибо!
+Спасибо!board
+12 packs
+Привет со строки три!
+а это уже четвёртая строка
