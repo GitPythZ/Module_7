@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="7_3">
-      <change afterPath="$PROJECT_DIR$/format_str_.py" afterDir="false" />
+    <list default="true" id="89689d7e-34e7-4afd-a2dd-439e2bc67edc" name="Changes" comment="format_str">
+      <change afterPath="$PROJECT_DIR$/file_in_os.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Theory_M7.executor": "Run",
+    "Python.format_str_.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Debug",
@@ -129,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727537320157</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="format_str">
+      <option name="closed" value="true" />
+      <created>1727538971540</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727538971540</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,7 +147,8 @@
     <MESSAGE value="дз" />
     <MESSAGE value="7_2" />
     <MESSAGE value="7_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_3" />
+    <MESSAGE value="format_str" />
+    <option name="LAST_COMMIT_MESSAGE" value="format_str" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
